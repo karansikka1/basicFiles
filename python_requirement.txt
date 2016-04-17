@@ -1,0 +1,7 @@
+numpy
+ipdb
+scipy
+scikit-learn
+matplotlib
+h5py
+# Install with pip install -r python_requirements.txt
