@@ -1,5 +1,0 @@
-abcdef
-abc
-abc
-abcd
-2
