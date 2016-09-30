@@ -4,4 +4,8 @@ scipy
 scikit-learn
 matplotlib
 h5py
+nltk
+bs4
+scrapy
+bokeh
 # Install with pip install -r python_requirements.txt
