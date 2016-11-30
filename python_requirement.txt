@@ -8,4 +8,6 @@ nltk
 bs4
 scrapy
 bokeh
+ipython
+gensim
 # Install with pip install -r python_requirements.txt
